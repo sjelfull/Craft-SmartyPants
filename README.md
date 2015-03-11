@@ -1,6 +1,6 @@
 ## SmartyPants for Craft
 
-Uses [PHP SmartyPants](https://github.com/michelf/php-smartypants) to apply some nice typography rules to text
+Use [PHP SmartyPants](https://github.com/michelf/php-smartypants) to apply a handful of nice typography rules to text.
 
 ## Usage
 
